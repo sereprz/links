@@ -9,6 +9,6 @@ export default defineConfig({
   redirects: {
     "/blog": "/",
   },
-  site: "https://example.treelink.com",
+  site: "https://serenaperuzzo.com",
   integrations: [tailwind(), sitemap(), icon()],
 });
